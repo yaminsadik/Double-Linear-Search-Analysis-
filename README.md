@@ -46,7 +46,7 @@ To run the simulation program `simulDoubleLinearSearch.cpp`, compile it and exec
 
 ## Contributors
 
-This assignment was prepared by Sadik Yamin for CS 310 (Data Structure and Algorithm at Truman State University.
+This assignment was prepared by Sadik Yamin for CS 310 (Data Structure and Algorithm) at Truman State University.
 
 Please refer to the attached documents for detailed instructions, analysis, and code implementations.
 
